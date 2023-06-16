@@ -4,7 +4,7 @@ See license.txt for flightDeck license conditions.
 
 flightDeck
 
-Despite the name, more of a general purpose 'office chair' for intensive 'desk work' and VR. Assumes a fairly typical 'driver's seat' power chair.
+Despite the name, more of a general purpose 'office chair' with accessories for intensive 'desk work' and VR. Assumes a fairly typical 'driver's seat' power chair.
 
 
 # Usage
@@ -16,6 +16,10 @@ Consider providing end-users an entire copy of this repository with all submodul
 
 
 # Design
+
+Chair is illustrated only roughly. Seat length includes leg extension fully extended.
+
+Bolt hole positions for chair and such are NOT modeled in CAD. Only important landmarks are modeled.
 
 
 # Redistribution and Preservation
