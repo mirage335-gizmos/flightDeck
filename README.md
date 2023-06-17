@@ -17,6 +17,9 @@ Consider providing end-users an entire copy of this repository with all submodul
 
 # Design
 
+WARNING: Units are mixed. Some sketches and other dimensions use inches, some use metric. This is due to the combination of commodity lumber de-facto standards with designs for metric components.
+
+
 Chair is illustrated only roughly. Seat length includes leg extension fully extended.
 
 Bolt hole positions for chair and such are NOT modeled in CAD. Only important landmarks are modeled.
@@ -28,6 +31,8 @@ Entire 'recursive' clones of this repository with all submodules may be appropri
 
 
 # Safety
+
+DANGER: Powered chairs have moving machinery and other components designed for automotive use. Pinch points or other hazards may be present.
 
 
 # FutureWork
