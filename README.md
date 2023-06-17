@@ -6,6 +6,8 @@ flightDeck
 
 Despite the name, more of a general purpose 'office chair' with accessories for intensive 'desk work' and VR. Assumes a fairly typical 'driver's seat' power chair.
 
+<img src=/Render.png width=600>
+
 
 # Usage
 
