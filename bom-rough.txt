@@ -1,0 +1,41 @@
+
+timber-floorToChair,6,2x12nominal 11in
+
+panel-chairDeck,1,38x28in 3/4in
+
+panel-chairFloor,1,37x38in 3/4in
+
+timber-tilt,1,2x4nominal 19in
+
+timber-controlsDeck,2,2x8nominal 40in
+
+panel-controlsDeck,2,7x40in 3/4in
+
+panel-sidestick,1,8.5x13.5in 3/4in
+
+timber-sidestick,1,2x4nominal 4.5in
+
+timber-sidestick-front,1,2x4nominal 2.75in
+
+
+
+
+
+timber-floorToWheels,3,2x4nominal 18in
+
+
+
+timber-floorToPedals,2,2x4nominal 32in
+
+
+
+
+
+panel-pedalsDeck,1,23x16in 3/4in
+
+
+
+
+
+
+
