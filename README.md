@@ -6,6 +6,8 @@ flightDeck
 
 Despite the name, more of a general purpose 'office chair' with accessories for intensive 'desk work' and VR. Assumes a fairly typical 'driver's seat' power chair.
 
+Goal is that no muscles other than those used for the controls are under significant tension. Recent Secret Lab Evo chairs have been sufficient to achieve this, albeit in a limited range of desk heights, etc, as an example.
+
 <img src=/Render.png width=600>
 
 
@@ -38,6 +40,41 @@ DANGER: Powered chairs have moving machinery and other components designed for a
 
 
 # FutureWork
+
+
+
+# Findings
+
+Vertical width of 38 inch was well chosen and should remain as is.
+
+
+Foot rest should be much closer and could be much longer.
+
+Wheels were not as useful as hoped, due to the center of gravity being far from the wheels, more so than expected, so tilting is not easy.
+
+Stability is very robust - panel-ChairFloor could be shorter.
+
+
+Sidestick position should not be positioned forward, but instead as far back as possible, for compatibility with a desk. Being able to slide the seat back to the controls, or forward to reach a desk, is a convenient and effective feature. There is no obvious disadvantage in practice to this compatibility feature.
+
+Sidestick position is surprisingly quite tight tolerance.
+
+
+Tilt useful for chair is about half - a 3/4inch rise at the front of the chair instead of 1 1/2 inch.
+
+Sidestick useful tilt is significantly less. Sidestick also should NOT be raised above the seat height chosen for the controlsDeck panels. Unexpectedly, such rise is not needed, and also unexpectedly, nor does such rise fit well with the organic motion of the chair lift function.
+
+
+Long screws are necessary for timber-controlsDeck.
+
+
+VR headset stowage and such can and should easily be added as a few 2x4 timbers.
+
+
+
+Entering and exiting the seat is apparently best done by climbing out. Though not as much a nuisance as this may seem, a handrail would be useful.
+
+
 
 
 # Reference
